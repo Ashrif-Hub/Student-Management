@@ -19,8 +19,14 @@ Database: CSV file
 
 🚀 How to Run
 
-1) Clone the repository: git clone https://github.com/Ashrif-Hub/Student-Management.git
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Ashrif-Hub/Student-Management.git
 
-2) Navigate to the project folder: cd Student-Management
+2. Navigate to the project folder:
+   ```bash
+   cd Student-Management
 
-3) Run the program: python main.py
+3. Run the program:
+   ```bash
+   python main.py
