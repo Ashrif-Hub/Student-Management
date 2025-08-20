@@ -21,7 +21,7 @@ Database: CSV file
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ashrif-Hub/Student-Management.git
+   https://github.com/Ashrif-Hub/Student-Management.git
 
 2. Navigate to the project folder:
    ```bash
